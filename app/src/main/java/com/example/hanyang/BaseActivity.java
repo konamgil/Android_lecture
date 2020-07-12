@@ -12,12 +12,16 @@ import butterknife.ButterKnife;
 
 public class BaseActivity extends AppCompatActivity {
 
+    Context context = this;
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
     }
 
-    public void toastSHow(String text) {
+
+    public void toastShow(String text) {
         Toast.makeText(this.getApplicationContext(),text,Toast.LENGTH_SHORT).show();
     }
 

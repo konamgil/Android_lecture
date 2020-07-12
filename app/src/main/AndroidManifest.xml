@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/defalutAppTheme">
-        <activity android:name="lecture_1.LinearTestActivity_2"></activity>
+        <activity android:name="lecture_2.FrameTestActivity"></activity>
+        <activity android:name="assignment.AssignmentActivity" />
+        <activity android:name="lecture_2.ListviewActivity_1" />
+        <activity android:name="lecture_1.CalculatorActivity" />
+        <activity android:name="lecture_1.RelativeTestLayout_1" />
+        <activity android:name="lecture_1.LinearTestActivity_3" />
+        <activity android:name="lecture_1.LinearTestActivity_2" />
         <activity android:name="lecture_1.LinearTestActivity_1" />
         <activity android:name=".MainActivity">
             <intent-filter>
