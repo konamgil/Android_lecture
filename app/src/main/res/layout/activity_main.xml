@@ -8,7 +8,6 @@
     <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="10dp"
         android:id="@+id/mainTableLayout"
         android:stretchColumns="0,1,2,3"
         >
@@ -64,12 +63,14 @@
 
             <Button
                 android:id="@+id/btn7"
+                android:text="FrameLayout"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
             <Button
                 android:id="@+id/btn8"
+                android:text="FrameLayout2"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
@@ -78,22 +79,28 @@
         <TableRow>
             <Button
                 android:id="@+id/btn9"
+                android:text="Count"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
             <Button
                 android:id="@+id/btn10"
+                android:text="Handler"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
             <Button
+                android:id="@+id/btn11"
+                android:text="lifecycle"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
             <Button
+                android:id="@+id/btn12"
+                android:text="오픈 테스트"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
@@ -101,16 +108,22 @@
         </TableRow>
         <TableRow>
             <Button
+                android:id="@+id/btn13"
+                android:text="커스텀 리스트뷰"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
             <Button
+                android:id="@+id/btn14"
+                android:text="전화번호부"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />
 
             <Button
+                android:id="@+id/btn15"
+                android:text="볼리"
                 android:layout_weight="1"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content" />

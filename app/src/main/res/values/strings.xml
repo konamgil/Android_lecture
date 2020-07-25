@@ -1,3 +1,101 @@
 <resources>
     <string name="app_name">hanyang</string>
+    <string-array name="items_name">
+        <item>MacBook Pro</item>
+        <item>Alienware</item>
+        <item>Sony play station 4</item>
+        <item>Xbox One</item>
+        <item>Google glass</item>
+        <item>Google Nexus 6</item>
+        <item>MacBook Pro</item>
+        <item>Alienware</item>
+        <item>Sony play station 4</item>
+        <item>Xbox One</item>
+        <item>Google glass</item>
+        <item>Google Nexus 6</item>
+        <item>MacBook Pro</item>
+        <item>Alienware</item>
+        <item>Sony play station 4</item>
+        <item>Xbox One</item>
+        <item>Google glass</item>
+        <item>Google Nexus 6</item>
+        <item>MacBook Pro</item>
+        <item>Alienware</item>
+        <item>Sony play station 4</item>
+        <item>Xbox One</item>
+        <item>Google glass</item>
+        <item>Google Nexus 6</item>
+        <item>MacBook Pro</item>
+        <item>Alienware</item>
+        <item>Sony play station 4</item>
+        <item>Xbox One</item>
+        <item>Google glass</item>
+        <item>Google Nexus 6</item>
+        <item>MacBook Pro</item>
+        <item>Alienware</item>
+        <item>Sony play station 4</item>
+        <item>Xbox One</item>
+        <item>Google glass</item>
+        <item>Google Nexus 6</item>
+    </string-array>
+
+    <string-array name="item_description">
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+        <item>High performance computer gaming system.</item>
+        <item>PS4 console, the most immersive gaming experience ever.</item>
+        <item>Best games, multi-player and entertainment.</item>
+        <item>Optical head mounted display</item>
+        <item>Motorolla Nexus x</item>
+
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+        <item>High performance computer gaming system.</item>
+        <item>PS4 console, the most immersive gaming experience ever.</item>
+        <item>Best games, multi-player and entertainment.</item>
+        <item>Optical head mounted display</item>
+        <item>Motorolla Nexus x</item>
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+        <item>High performance computer gaming system.</item>
+        <item>PS4 console, the most immersive gaming experience ever.</item>
+        <item>Best games, multi-player and entertainment.</item>
+        <item>Optical head mounted display</item>
+        <item>Motorolla Nexus x</item>
+
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+        <item>High performance computer gaming system.</item>
+        <item>PS4 console, the most immersive gaming experience ever.</item>
+        <item>Best games, multi-player and entertainment.</item>
+        <item>Optical head mounted display</item>
+        <item>Motorolla Nexus x</item>
+
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+        <item>High performance computer gaming system.</item>
+        <item>PS4 console, the most immersive gaming experience ever.</item>
+        <item>Best games, multi-player and entertainment.</item>
+        <item>Optical head mounted display</item>
+        <item>Motorolla Nexus x</item>
+
+        <item>MacBook pro with new graphics and faster flash storage.</item>
+        <item>High performance computer gaming system.</item>
+        <item>PS4 console, the most immersive gaming experience ever.</item>
+        <item>Best games, multi-player and entertainment.</item>
+        <item>Optical head mounted display</item>
+        <item>Motorolla Nexus x</item>
+
+    </string-array>
+    <string-array name="phone_name">
+        <item>ice cream</item>
+        <item>phone</item>
+        <item>kakao</item>
+        <item>glass</item>
+        <item>party</item>
+    </string-array>
+    <string-array name="phone_number">
+        <item>010-1234-4365</item>
+        <item>010-3526-3829</item>
+        <item>010-3839-4969</item>
+        <item>010-4857-9949</item>
+        <item>010-4592-3992</item>
+    </string-array>
 </resources>
